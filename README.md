@@ -22,7 +22,7 @@ A simple URL shortener built with Node.js, HTML, and JavaScript. It allows users
 ---
 
 ## 📁 Project Structure
-
+```
 url-shortener/
 ├── index.html
 ├── index.css
